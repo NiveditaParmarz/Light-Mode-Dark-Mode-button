@@ -1,0 +1,30 @@
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
+    
+}
+
+#btn1{
+    height : 30px;
+    width: 90px;
+    border-radius: 50%;
+
+}
+#btn1:hover{
+    background-color: rgb(255, 255, 180);
+    color: black;
+}
+
+.buttonlightmode{
+    background-color: rgba(232, 232, 232, 0.789);
+    color: black;
+}
+.buttondarkmode{
+    background-color: grey;
+    color: white;
+}
